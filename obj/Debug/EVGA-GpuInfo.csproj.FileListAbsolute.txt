@@ -1,0 +1,9 @@
+C:\Users\bmg\source\repos\EVGA-GpuInfo\bin\Debug\EVGA-GpuInfo.exe.config
+C:\Users\bmg\source\repos\EVGA-GpuInfo\bin\Debug\EVGA-GpuInfo.exe
+C:\Users\bmg\source\repos\EVGA-GpuInfo\bin\Debug\EVGA-GpuInfo.pdb
+C:\Users\bmg\source\repos\EVGA-GpuInfo\obj\Debug\EVGA_GpuInfo.editor.resources
+C:\Users\bmg\source\repos\EVGA-GpuInfo\obj\Debug\EVGA_GpuInfo.Properties.Resources.resources
+C:\Users\bmg\source\repos\EVGA-GpuInfo\obj\Debug\EVGA-GpuInfo.csproj.GenerateResource.cache
+C:\Users\bmg\source\repos\EVGA-GpuInfo\obj\Debug\EVGA-GpuInfo.csproj.CoreCompileInputs.cache
+C:\Users\bmg\source\repos\EVGA-GpuInfo\obj\Debug\EVGA-GpuInfo.exe
+C:\Users\bmg\source\repos\EVGA-GpuInfo\obj\Debug\EVGA-GpuInfo.pdb
